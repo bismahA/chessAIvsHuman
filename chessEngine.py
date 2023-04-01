@@ -1,0 +1,1 @@
+#will store the current state of chess game and detremine the valid moves 
